@@ -3,7 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Publications & Articles | Mai Abu Al Saud</title>
+    <title>Publications & Articles | Mai Abu Al Saud | Strategic Digital Transformation</title>
+    <meta name="description" content="Explore strategic insights and professional publications by Mai Abu Al Saud. Expert analysis on Executive Leadership, Software Engineering, AI Governance, and Digital Transformation.">
+    <meta name="keywords" content="Mai Abu Al Saud, Digital Transformation, Software Engineering, AI Governance, Executive Leadership, Vision 2030, Stakeholder Management, ADKAR">
+    
+    <!-- Structured Data for SEO -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "CollectionPage",
+      "name": "Strategic Publication Gallery",
+      "description": "A collection of professional articles and strategic insights by Mai Abu Al Saud.",
+      "author": {
+        "@type": "Person",
+        "name": "Mai Abu Al Saud"
+      }
+    }
+    </script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -77,7 +93,7 @@
             box-shadow: 0 30px 60px rgba(37, 211, 102, 0.6);
         }
 
-        .mega-glow-btn h2 { font-size: clamp(28px, 5vw, 42px); font-weight: 900; margin: 0; text-transform: uppercase; letter-spacing: 3px; }
+        .mega-glow-btn h1 { font-size: clamp(28px, 5vw, 42px); font-weight: 900; margin: 0; text-transform: uppercase; letter-spacing: 3px; }
         .mega-glow-btn span { font-size: 18px; margin-top: 15px; font-weight: 700; opacity: 0.9; letter-spacing: 2px; }
 
         /* Gallery Grid */
@@ -218,6 +234,36 @@
             color: var(--body-text); padding: 15px; border-radius: 50%;
             cursor: pointer; z-index: 100;
         }
+
+        @media (max-width: 768px) {
+            .page-wrapper {
+                padding: 30px 15px;
+            }
+            .mega-glow-btn {
+                padding: 30px 20px;
+                border-radius: 25px;
+                margin-bottom: 50px;
+            }
+            .articles-grid {
+                grid-template-columns: 1fr;
+                gap: 25px;
+            }
+            .category-section {
+                padding: 30px 15px;
+                border-radius: 30px;
+                margin-bottom: 40px;
+            }
+            .card-image-container {
+                height: 350px;
+            }
+            .category-nav {
+                gap: 10px;
+            }
+            .category-nav a {
+                padding: 10px 16px;
+                font-size: 12px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -236,17 +282,20 @@
         <p class="channel-intro">Explore my strategic insights and digital transformation publications in my professional channel.</p>
 
         <a href="https://whatsapp.com/channel/0029Vb6o1xHISTkIzG33VY3c" target="_blank" class="mega-glow-btn">
-            <h2>Strategic Publication Gallery</h2>
+            <h1>Strategic Publication Gallery</h1>
             <span>Follow My WhatsApp Channel for Real-time Insights →</span>
         </a>
 
         <!-- Section 0: Executive Leadership -->
         <div class="category-section lead-border" id="lead-section">
             <h2 class="category-title">Executive Leadership</h2>
-            <div class="articles-grid">
-                 <a href="articles/leadership/6.jpg" target="_blank" class="article-card"><div class="card-image-container"><img src="articles/leadership/6.jpg" alt="Executive Leadership 3"></div></a>
-                 <a href="articles/leadership/1.png" target="_blank" class="article-card"><div class="card-image-container"><img src="articles/leadership/1.png" alt="Executive Leadership 5"></div></a>
-                <a href="articles/leadership/2.png" target="_blank" class="article-card"><div class="card-image-container"><img src="articles/leadership/2.png" alt="Executive Leadership 6"></div></a>
+            <div class="articles-grid"> 
+                <a href="articles/leadership/8.jpg" target="_blank" class="article-card"><div class="card-image-container"><img src="articles/leadership/8.jpg" alt="Organization Repository - Lesson Learned and Knowledge Transfer by Mai Abu Al Saud"></div></a>
+                <a href="articles/leadership/9.jpg" target="_blank" class="article-card"><div class="card-image-container"><img src="articles/leadership/9.jpg" alt="ADKAR Change Management in Digital Transformation - Strategic Article by Mai Abu Al Saud"></div></a>
+                <a href="articles/leadership/10.jpg" target="_blank" class="article-card"><div class="card-image-container"><img src="articles/leadership/10.jpg" alt="Stakeholders Management and Leading Complexity in Digital Transformation"></div></a>
+                 <a href="articles/leadership/6.jpg" target="_blank" class="article-card"><div class="card-image-container"><img src="articles/leadership/6.jpg" alt="Strategic Innovation Before Crisis Publication"></div></a>
+                 <a href="articles/leadership/1.png" target="_blank" class="article-card"><div class="card-image-container"><img src="articles/leadership/1.png" alt="Vision 2030 National Competency and Future Leadership Article"></div></a>
+                <a href="articles/leadership/2.png" target="_blank" class="article-card"><div class="card-image-container"><img src="articles/leadership/2.png" alt="Non-Compliance Risks in Healthcare Organizations Professional Publication"></div></a>
                 <a href="articles/leadership/4.jpg" target="_blank" class="article-card"><div class="card-image-container"><img src="articles/leadership/4.jpg" alt="Executive Leadership 1"></div></a>
                 <a href="articles/leadership/5.jpg" target="_blank" class="article-card"><div class="card-image-container"><img src="articles/leadership/5.jpg" alt="Executive Leadership 2"></div></a>
                 <a href="articles/leadership/3.jpg" target="_blank" class="article-card"><div class="card-image-container"><img src="articles/leadership/3.jpg" alt="Executive Leadership 7"></div></a>
@@ -263,7 +312,6 @@
                 <a href="articles/digital_transformation_se/4.jpg" target="_blank" class="article-card"><div class="card-image-container"><img src="articles/digital_transformation_se/4.jpg" alt="Publication 4"></div></a>
                 <a href="articles/digital_transformation_se/5.jpg" target="_blank" class="article-card"><div class="card-image-container"><img src="articles/digital_transformation_se/5.jpg" alt="Publication 5"></div></a>
                 <a href="articles/digital_transformation_se/6.jpg" target="_blank" class="article-card"><div class="card-image-container"><img src="articles/digital_transformation_se/6.jpg" alt="Publication 6"></div></a>
-                <a href="articles/digital_transformation_se/7.jpg" target="_blank" class="article-card"><div class="card-image-container"><img src="articles/digital_transformation_se/7.jpg" alt="Publication 7"></div></a>
                 <a href="articles/digital_transformation_se/8.jpg" target="_blank" class="article-card"><div class="card-image-container"><img src="articles/digital_transformation_se/8.jpg" alt="Publication 8"></div></a>
                 <a href="articles/digital_transformation_se/9.jpg" target="_blank" class="article-card"><div class="card-image-container"><img src="articles/digital_transformation_se/9.jpg" alt="Publication 9"></div></a>
                 <a href="articles/digital_transformation_se/10.jpg" target="_blank" class="article-card"><div class="card-image-container"><img src="articles/digital_transformation_se/10.jpg" alt="Publication 10"></div></a>
