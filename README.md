@@ -1,4 +1,4 @@
-# My-WhatsApp-Professional-Digital-Channel-
+# Mai Abu Al Saud-WhatsApp-Professional-Digital-Channel-
 
 <img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/df708446-032c-4633-b05a-b774416f9e7c" />
 
