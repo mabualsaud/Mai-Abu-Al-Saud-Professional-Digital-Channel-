@@ -1,6 +1,7 @@
 
 
 # Mai Abu Al Saud-WhatsApp-Professional-Digital-Channel-
+## https://whatsapp.com/channel/0029Vb6o1xHISTkIzG33VY3c
 
 
 ## A professional channel for my publication articles in digital transformation, project management, governance, and risk management in AI, Software Engineering and healthcare. Content focused on documented experience, real impact, and the design of high-sensitivity systems
