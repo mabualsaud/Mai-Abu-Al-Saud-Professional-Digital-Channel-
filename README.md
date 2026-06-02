@@ -17,8 +17,8 @@
 <img width="1024" height="1536" alt="1" src="https://github.com/user-attachments/assets/2039cbff-77f9-47f0-8196-3ad37d825f0b" />
 <img width="1280" height="853" alt="7" src="https://github.com/user-attachments/assets/5b2399ec-4caf-4564-91c3-cd899570574c" />
 <img width="928" height="1120" alt="5" src="https://github.com/user-attachments/assets/f8e3e78b-45b4-4938-94c7-3e16e582ff0f" />
-
-
+#
+#
 
 # Software Engineering & Digital Transformation
 <img width="683" height="1024" alt="1" src="https://github.com/user-attachments/assets/bb1914a2-ada2-4e47-a0eb-84c6e77acc30" />
