@@ -22,6 +22,7 @@
 <img width="1280" height="853" alt="Mai Abu Al Saud Executive leadership 7" src="https://github.com/user-attachments/assets/5b2399ec-4caf-4564-91c3-cd899570574c" />
 
 # Software Engineering & Digital Transformation | هندسة البرمجيات والتحول الرقمي
+<img width="1264" height="843" alt="11" src="https://github.com/user-attachments/assets/b9002ae1-2175-4b56-9715-4e57e41745cf" />
 <img width="683" height="1024" alt="Mai Abu Al Saud Software Engineering 1" src="https://github.com/user-attachments/assets/bb1914a2-ada2-4e47-a0eb-84c6e77acc30" />
 <img width="853" height="1280" alt="Mai Abu Al Saud Software Engineering 10" src="https://github.com/user-attachments/assets/0240dde2-0000-41c4-9910-daa2e45eda22" />
 <img width="853" height="1280" alt="Mai Abu Al Saud Software Engineering 3" src="https://github.com/user-attachments/assets/4276172a-412f-4aa4-9be8-c9b003c70ebd" />
