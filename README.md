@@ -1,9 +1,9 @@
 # Mai Abu Al Saud | مي أبو السعود
 ## Professional Digital Channel | القناة الرقمية المهنية
-[https://whatsapp.com/channel/0029Vb6o1xHISTkIzG33VY3c](https://whatsapp.com/channel/0029Vb6o1xHISTkIzG33VY3c)
+## [https://whatsapp.com/channel/0029Vb6o1xHISTkIzG33VY3c](https://whatsapp.com/channel/0029Vb6o1xHISTkIzG33VY3c)
 
 ## A professional channel for my publication articles in digital transformation, project management, governance, and risk management in AI, Software Engineering and healthcare. Content focused on documented experience, real impact, and the design of high-sensitivity systems.
-مستودع مهني متخصص يضم مقالات حول التحول الرقمي، إدارة المشاريع، الحوكمة، وإدارة المخاطر في الذكاء الاصطناعي وهندسة البرمجيات في القطاع الصحي. محتوى يركز على الخبرة الموثقة، التأثير الحقيقي، وتصميم الأنظمة عالية الحساسية.
+## مستودع مهني متخصص يضم مقالات حول التحول الرقمي، إدارة المشاريع، الحوكمة، وإدارة المخاطر في الذكاء الاصطناعي وهندسة البرمجيات في القطاع الصحي. محتوى يركز على الخبرة الموثقة، التأثير الحقيقي، وتصميم الأنظمة عالية الحساسية
 
 <img width="768" height="1024" alt="Mai Abu Al Saud | مي أبو السعود" src="https://github.com/user-attachments/assets/df708446-032c-4633-b05a-b774416f9e7c" />
 
