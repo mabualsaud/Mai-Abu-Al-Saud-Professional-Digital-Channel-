@@ -10,9 +10,9 @@
 # Executive leadership 
 <img width="480" height="720" alt="8" src="https://github.com/user-attachments/assets/92f44935-fae0-4ceb-9c09-770c83fdbb0d" />
 <img width="480" height="720" alt="9" src="https://github.com/user-attachments/assets/73ae46bf-1ab7-40a0-8b5f-ff77dde98aee" />
-<img width="928" height="720" alt="6" src="https://github.com/user-attachments/assets/3653ed14-4d28-426e-b6ee-3ab2e51e11b4" />
+<img width="928" height="1200" alt="6" src="https://github.com/user-attachments/assets/3653ed14-4d28-426e-b6ee-3ab2e51e11b4" />
 <img width="500" height="720" alt="10" src="https://github.com/user-attachments/assets/7cab0569-d516-489f-84d6-a80e7227d0d1" />
-<img width="500" height="1200" alt="2" src="https://github.com/user-attachments/assets/a0d40978-4b71-4cbd-8e7b-1c3a5fe84294" />
+<img width="500" height="720" alt="2" src="https://github.com/user-attachments/assets/a0d40978-4b71-4cbd-8e7b-1c3a5fe84294" />
 <img width="800" height="1200" alt="4" src="https://github.com/user-attachments/assets/16346fd6-3940-45b5-b823-7cca4043b948" />
 <img width="928" height="1120" alt="1" src="https://github.com/user-attachments/assets/2039cbff-77f9-47f0-8196-3ad37d825f0b" />
 <img width="928" height="1120" alt="5" src="https://github.com/user-attachments/assets/f8e3e78b-45b4-4938-94c7-3e16e582ff0f" />
