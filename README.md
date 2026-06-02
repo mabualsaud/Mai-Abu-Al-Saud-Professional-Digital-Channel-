@@ -8,7 +8,7 @@
 <img width="768" height="1024" alt="image" src="https://github.com/user-attachments/assets/df708446-032c-4633-b05a-b774416f9e7c" />
 
 # Executive leadership 
-<img width="480" height="599" alt="8" src="https://github.com/user-attachments/assets/92f44935-fae0-4ceb-9c09-770c83fdbb0d" />
+<img width="480" height="720" alt="8" src="https://github.com/user-attachments/assets/92f44935-fae0-4ceb-9c09-770c83fdbb0d" />
 <img width="480" height="720" alt="9" src="https://github.com/user-attachments/assets/73ae46bf-1ab7-40a0-8b5f-ff77dde98aee" />
 <img width="1024" height="1280" alt="6" src="https://github.com/user-attachments/assets/3653ed14-4d28-426e-b6ee-3ab2e51e11b4" />
 <img width="480" height="320" alt="10" src="https://github.com/user-attachments/assets/7cab0569-d516-489f-84d6-a80e7227d0d1" />
@@ -17,8 +17,7 @@
 <img width="1024" height="1536" alt="1" src="https://github.com/user-attachments/assets/2039cbff-77f9-47f0-8196-3ad37d825f0b" />
 <img width="1280" height="853" alt="7" src="https://github.com/user-attachments/assets/5b2399ec-4caf-4564-91c3-cd899570574c" />
 <img width="928" height="1120" alt="5" src="https://github.com/user-attachments/assets/f8e3e78b-45b4-4938-94c7-3e16e582ff0f" />
-#
-#
+
 
 # Software Engineering & Digital Transformation
 <img width="683" height="1024" alt="1" src="https://github.com/user-attachments/assets/bb1914a2-ada2-4e47-a0eb-84c6e77acc30" />
