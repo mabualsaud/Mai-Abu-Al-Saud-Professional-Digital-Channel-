@@ -49,16 +49,17 @@
 <img width="1280" height="853" alt="Mai Abu Al Saud AI Governance 1" src="https://github.com/user-attachments/assets/b69a0a65-7aa1-44be-b027-166f0f6f9116" />
 
 # Nuclear Medicine EPIC System | نظام EPIC للطب النووي
-<img width="853" height="1280" alt="Mai Abu Al Saud EPIC 10" src="https://github.com/user-attachments/assets/dfae0709-4362-4227-8441-e2c6ead79813" />
+<img width="1280" height="853" alt="Mai Abu Al Saud EPIC 1" src="https://github.com/user-attachments/assets/158872d8-33d7-4599-8cf0-182d858e14cb" />
+<img width="1280" height="853" alt="Mai Abu Al Saud EPIC 4" src="https://github.com/user-attachments/assets/22692ab1-3542-4a72-bbc9-cc0ad3fdcf1f" />
+<img width="705" height="469" alt="Mai Abu Al Saud EPIC 3" src="https://github.com/user-attachments/assets/a01da014-206a-48cd-b298-192bc0a374bb" />
+<img width="853" height="1280" alt="Mai Abu Al Saud EPIC 2" src="https://github.com/user-attachments/assets/1ee17a17-b4ee-457d-86bc-b2da1ede9721" />
 <img width="1280" height="853" alt="Mai Abu Al Saud EPIC 9" src="https://github.com/user-attachments/assets/b9c52035-0053-425a-81b8-6e0de53f5177" />
 <img width="1280" height="853" alt="Mai Abu Al Saud EPIC 8" src="https://github.com/user-attachments/assets/fd267242-d4fd-4936-858d-677e882f1837" />
 <img width="1280" height="853" alt="Mai Abu Al Saud EPIC 7" src="https://github.com/user-attachments/assets/fcb5a99c-3ff2-4a10-bf37-9f04b70b7e2e" />
 <img width="1280" height="853" alt="Mai Abu Al Saud EPIC 6" src="https://github.com/user-attachments/assets/fc989481-467c-4e60-9dfb-3f4e3880436a" />
 <img width="853" height="1280" alt="Mai Abu Al Saud EPIC 5" src="https://github.com/user-attachments/assets/187c39bf-693d-4518-a92a-e7ebd87de0c3" />
-<img width="1280" height="853" alt="Mai Abu Al Saud EPIC 4" src="https://github.com/user-attachments/assets/22692ab1-3542-4a72-bbc9-cc0ad3fdcf1f" />
-<img width="705" height="469" alt="Mai Abu Al Saud EPIC 3" src="https://github.com/user-attachments/assets/a01da014-206a-48cd-b298-192bc0a374bb" />
-<img width="853" height="1280" alt="Mai Abu Al Saud EPIC 2" src="https://github.com/user-attachments/assets/1ee17a17-b4ee-457d-86bc-b2da1ede9721" />
-<img width="1280" height="853" alt="Mai Abu Al Saud EPIC 1" src="https://github.com/user-attachments/assets/158872d8-33d7-4599-8cf0-182d858e14cb" />
+<img width="853" height="1280" alt="Mai Abu Al Saud EPIC 10" src="https://github.com/user-attachments/assets/dfae0709-4362-4227-8441-e2c6ead79813" />
+
 
 # Nuclear Medicine & Health Publications | منشورات الطب النووي والصحة
 <img width="1280" height="853" alt="Mai Abu Al Saud Nuclear 1" src="https://github.com/user-attachments/assets/e8c809be-be13-497e-9486-d9169ffffa1a" />
