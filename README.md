@@ -63,6 +63,7 @@
 
 # Nuclear Medicine & Health Publications | منشورات الطب النووي والصحة
 <img width="1280" height="853" alt="Mai Abu Al Saud Nuclear 1" src="https://github.com/user-attachments/assets/e8c809be-be13-497e-9486-d9169ffffa1a" />
+<img width="853" height="1280" alt="Mai Abu Al Saud Nuclear 2" src="https://github.com/user-attachments/assets/91e57d4e-9f9d-4fc7-9ddb-20f753ec6b50" />
 <img width="1024" height="1024" alt="Mai Abu Al Saud Nuclear 30" src="https://github.com/user-attachments/assets/cf89a165-94af-411d-8c8d-57d0a448cd1a" />
 <img width="1024" height="290" alt="Mai Abu Al Saud Nuclear 29" src="https://github.com/user-attachments/assets/f4c78ee1-0e9a-453f-bc10-03e461e50acf" />
 <img width="1280" height="853" alt="Mai Abu Al Saud Nuclear 28" src="https://github.com/user-attachments/assets/6e5d48e6-0e67-4a56-aa5c-f4a4c43fc021" />
@@ -89,4 +90,4 @@
 <img width="1280" height="853" alt="Mai Abu Al Saud Nuclear 5" src="https://github.com/user-attachments/assets/230a0cf1-c811-41ee-9a4a-970146597e68" />
 <img width="1024" height="1024" alt="Mai Abu Al Saud Nuclear 4" src="https://github.com/user-attachments/assets/4c388545-d294-4e88-984d-880ad6d2413a" />
 <img width="1024" height="1024" alt="Mai Abu Al Saud Nuclear 3" src="https://github.com/user-attachments/assets/eb646f21-0b13-4ffe-b497-478056a851b5" />
-<img width="853" height="1280" alt="Mai Abu Al Saud Nuclear 2" src="https://github.com/user-attachments/assets/91e57d4e-9f9d-4fc7-9ddb-20f753ec6b50" />
+
