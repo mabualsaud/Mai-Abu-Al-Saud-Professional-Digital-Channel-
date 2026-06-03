@@ -38,6 +38,7 @@
 <img width="1280" height="853" alt="Mai Abu Al Saud Software Engineering 4" src="https://github.com/user-attachments/assets/c60b759e-bd37-4bf7-8a58-4e3d10d229c3" />
 
 # Artificial Intellegence & Governance Publications | منشورات الذكاء الاصطناعي والحوكمة
+<img width="1280" height="853" alt="18" src="https://github.com/user-attachments/assets/8d7f1ae7-5f71-415c-92ae-36d509db4e99" />
 <img width="800" height="1200" alt="Mai Abu Al Saud AI Governance 17" src="https://github.com/user-attachments/assets/6c6aa39d-a118-4d95-82c9-3fd493e32bb7" />
 <img width="703" height="471" alt="Mai Abu Al Saud AI Governance 16" src="https://github.com/user-attachments/assets/9e9f576c-887b-444f-a3cd-5ef5cbcb9ecb" />
 <img width="1024" height="1024" alt="Mai Abu Al Saud AI Governance 15" src="https://github.com/user-attachments/assets/f777fec2-2d0a-48ab-b1db-1e449f2fb782" />
