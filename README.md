@@ -1,6 +1,6 @@
 # Mai Abu Al Saud | مي أبو السعود
 ## Professional Digital Channel | القناة الرقمية المهنية
-## Strategic Publication Articles 
+# Strategic Publication Articles | مقالاتي المهنية 
 
 ## Enter from this link or Scan the below  QR Code:
 ## [https://whatsapp.com/channel/0029Vb6o1xHISTkIzG33VY3c](https://whatsapp.com/channel/0029Vb6o1xHISTkIzG33VY3c)
