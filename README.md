@@ -63,7 +63,6 @@
 
 # Nuclear Medicine EPIC System | نظام EPIC للطب النووي
 <img width="726" height="483" alt="Screenshot 2026-06-06 113015" src="https://github.com/user-attachments/assets/e272de1c-6fc8-4b41-9252-a7a70d2801e0" />
-<img width="800" height="800" alt="1780922535526" src="https://github.com/user-attachments/assets/2ed80597-6333-48b9-bc3f-8a59e059a648" />
 <img width="1280" height="853" alt="Mai Abu Al Saud EPIC 1" src="https://github.com/user-attachments/assets/158872d8-33d7-4599-8cf0-182d858e14cb" />
 <img width="1280" height="853" alt="Mai Abu Al Saud EPIC 4" src="https://github.com/user-attachments/assets/22692ab1-3542-4a72-bbc9-cc0ad3fdcf1f" />
 <img width="705" height="469" alt="Mai Abu Al Saud EPIC 3" src="https://github.com/user-attachments/assets/a01da014-206a-48cd-b298-192bc0a374bb" />
