@@ -26,6 +26,9 @@
 <img width="1280" height="853" alt="Mai Abu Al Saud Executive leadership 7" src="https://github.com/user-attachments/assets/5b2399ec-4caf-4564-91c3-cd899570574c" />
 
 # Software Engineering & Digital Transformation | هندسة البرمجيات والتحول الرقمي
+<img width="800" height="1200" alt="1780538261027" src="https://github.com/user-attachments/assets/2936c071-97a1-4f38-aa70-185b0c293ea2" />
+<img width="800" height="800" alt="1780799445420" src="https://github.com/user-attachments/assets/deac700c-012e-4c28-a617-a668160dcac0" />
+<img width="800" height="533" alt="1780623382865" src="https://github.com/user-attachments/assets/ba7c6bbb-a736-4e9d-91f8-6c95d0b0738a" />
 <img width="1264" height="843" alt="11" src="https://github.com/user-attachments/assets/b9002ae1-2175-4b56-9715-4e57e41745cf" />
 <img width="683" height="1024" alt="Mai Abu Al Saud Software Engineering 1" src="https://github.com/user-attachments/assets/bb1914a2-ada2-4e47-a0eb-84c6e77acc30" />
 <img width="853" height="1280" alt="Mai Abu Al Saud Software Engineering 10" src="https://github.com/user-attachments/assets/0240dde2-0000-41c4-9910-daa2e45eda22" />
@@ -58,6 +61,8 @@
 <img width="1280" height="853" alt="Mai Abu Al Saud AI Governance 1" src="https://github.com/user-attachments/assets/b69a0a65-7aa1-44be-b027-166f0f6f9116" />
 
 # Nuclear Medicine EPIC System | نظام EPIC للطب النووي
+<img width="726" height="483" alt="Screenshot 2026-06-06 113015" src="https://github.com/user-attachments/assets/e272de1c-6fc8-4b41-9252-a7a70d2801e0" />
+<img width="800" height="800" alt="1780922535526" src="https://github.com/user-attachments/assets/2ed80597-6333-48b9-bc3f-8a59e059a648" />
 <img width="1280" height="853" alt="Mai Abu Al Saud EPIC 1" src="https://github.com/user-attachments/assets/158872d8-33d7-4599-8cf0-182d858e14cb" />
 <img width="1280" height="853" alt="Mai Abu Al Saud EPIC 4" src="https://github.com/user-attachments/assets/22692ab1-3542-4a72-bbc9-cc0ad3fdcf1f" />
 <img width="705" height="469" alt="Mai Abu Al Saud EPIC 3" src="https://github.com/user-attachments/assets/a01da014-206a-48cd-b298-192bc0a374bb" />
