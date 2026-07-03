@@ -16,6 +16,8 @@
 <img width="768" height="1024" alt="Mai Abu Al Saud | مي أبو السعود" src="https://github.com/user-attachments/assets/df708446-032c-4633-b05a-b774416f9e7c" />
 
 # Executive leadership | القيادة التنفيذية
+<img width="1280" height="960" alt="1782961944399" src="https://github.com/user-attachments/assets/dd360a53-9107-4ed6-ab1b-95f7feb1157b" />
+<img width="800" height="1200" alt="1782637648165" src="https://github.com/user-attachments/assets/3e7d3856-129b-4cc5-820e-94d1f8119b27" />
 <img width="480" height="720" alt="Mai Abu Al Saud Executive leadership 8" src="https://github.com/user-attachments/assets/92f44935-fae0-4ceb-9c09-770c83fdbb0d" />
 <img width="480" height="720" alt="Mai Abu Al Saud Executive leadership 9" src="https://github.com/user-attachments/assets/73ae46bf-1ab7-40a0-8b5f-ff77dde98aee" />
 <img width="928" height="1200" alt="Mai Abu Al Saud Executive leadership 6" src="https://github.com/user-attachments/assets/3653ed14-4d28-426e-b6ee-3ab2e51e11b4" />
@@ -27,6 +29,13 @@
 <img width="1280" height="853" alt="Mai Abu Al Saud Executive leadership 7" src="https://github.com/user-attachments/assets/5b2399ec-4caf-4564-91c3-cd899570574c" />
 
 # Software Engineering & Digital Transformation | هندسة البرمجيات والتحول الرقمي
+<img width="800" height="533" alt="1781402061400" src="https://github.com/user-attachments/assets/0797e43a-e6fa-4cf1-a354-0c00b9fe11c2" />
+<img width="800" height="533" alt="1781402061402" src="https://github.com/user-attachments/assets/3de6bd93-29fc-42e8-a616-ef439d5614a1" />
+<img width="800" height="800" alt="1780922535526" src="https://github.com/user-attachments/assets/c0fba3ec-b861-4ac1-95c5-cc54f0cb3998" />
+<img width="800" height="800" alt="1781151953595 (1)" src="https://github.com/user-attachments/assets/10692e1d-647c-4e95-a2ca-489ac3399dcc" />
+<img width="800" height="800" alt="1781058573219" src="https://github.com/user-attachments/assets/9fbb027e-e481-4e27-a634-d71951184825" />
+<img width="800" height="999" alt="1781267387839" src="https://github.com/user-attachments/assets/50d6c40b-705e-4a63-9ebe-6f15ccbb02f9" />
+<img width="800" height="800" alt="1780973871993" src="https://github.com/user-attachments/assets/859aaf3d-e0be-439f-8f79-f85ccf063bc9" />
 <img width="800" height="800" alt="1780973871993" src="https://github.com/user-attachments/assets/fdf7c704-eb3f-41e2-b5cc-51d8e50de57a" />
 <img width="800" height="800" alt="1780922535526" src="https://github.com/user-attachments/assets/589ae8d3-a751-4bd2-8ec7-90ac44178268" />
 <img width="800" height="1200" alt="1780538261027" src="https://github.com/user-attachments/assets/2936c071-97a1-4f38-aa70-185b0c293ea2" />
@@ -44,6 +53,8 @@
 <img width="1280" height="853" alt="Mai Abu Al Saud Software Engineering 4" src="https://github.com/user-attachments/assets/c60b759e-bd37-4bf7-8a58-4e3d10d229c3" />
 
 # Artificial Intellegence & Governance Publications | منشورات الذكاء الاصطناعي والحوكمة
+<img width="800" height="800" alt="1780799445420 (1)" src="https://github.com/user-attachments/assets/c96633c2-52bb-4941-b798-a1a5061e6d21" />
+<img width="800" height="533" alt="1781835651445" src="https://github.com/user-attachments/assets/a60634e1-ea16-4bd8-bb67-2729548108a5" />
 <img width="1280" height="853" alt="18" src="https://github.com/user-attachments/assets/8d7f1ae7-5f71-415c-92ae-36d509db4e99" />
 <img width="800" height="1200" alt="Mai Abu Al Saud AI Governance 17" src="https://github.com/user-attachments/assets/6c6aa39d-a118-4d95-82c9-3fd493e32bb7" />
 <img width="703" height="471" alt="Mai Abu Al Saud AI Governance 16" src="https://github.com/user-attachments/assets/9e9f576c-887b-444f-a3cd-5ef5cbcb9ecb" />
@@ -64,6 +75,7 @@
 <img width="1280" height="853" alt="Mai Abu Al Saud AI Governance 1" src="https://github.com/user-attachments/assets/b69a0a65-7aa1-44be-b027-166f0f6f9116" />
 
 # Nuclear Medicine EPIC System | نظام EPIC للطب النووي
+<img width="752" height="422" alt="1780735193658" src="https://github.com/user-attachments/assets/1ba14cfc-3965-449b-8196-8c56600127fa" />
 <img width="726" height="483" alt="Screenshot 2026-06-06 113015" src="https://github.com/user-attachments/assets/e272de1c-6fc8-4b41-9252-a7a70d2801e0" />
 <img width="1280" height="853" alt="Mai Abu Al Saud EPIC 1" src="https://github.com/user-attachments/assets/158872d8-33d7-4599-8cf0-182d858e14cb" />
 <img width="1280" height="853" alt="Mai Abu Al Saud EPIC 4" src="https://github.com/user-attachments/assets/22692ab1-3542-4a72-bbc9-cc0ad3fdcf1f" />
