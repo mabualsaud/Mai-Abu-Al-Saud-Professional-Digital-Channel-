@@ -16,6 +16,7 @@
 <img width="768" height="1024" alt="Mai Abu Al Saud | مي أبو السعود" src="https://github.com/user-attachments/assets/df708446-032c-4633-b05a-b774416f9e7c" />
 
 # Executive leadership | القيادة التنفيذية
+<img width="800" height="800" alt="1783218158849" src="https://github.com/user-attachments/assets/78b151fa-e8a4-44c2-91da-d20d2824c864" />
 <img width="1280" height="960" alt="1782961944399" src="https://github.com/user-attachments/assets/dd360a53-9107-4ed6-ab1b-95f7feb1157b" />
 <img width="800" height="1200" alt="1782637648165" src="https://github.com/user-attachments/assets/3e7d3856-129b-4cc5-820e-94d1f8119b27" />
 <img width="480" height="720" alt="Mai Abu Al Saud Executive leadership 8" src="https://github.com/user-attachments/assets/92f44935-fae0-4ceb-9c09-770c83fdbb0d" />
