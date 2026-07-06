@@ -1,6 +1,8 @@
-# Mai Abu Al Saud | مي عبدالله أبو السعود
-# Strategic Publication Articles | مقالاتي المهنية 
+# Eng.Mai Abu Al Saud | مي عبدالله أبو السعود
+# Digital Transformation Leader | Software Engineering | AI Trainer & Researcher  
 ## Professional Digital Channel | القناة الرقمية المهنية
+# Strategic Publication Articles | مقالاتي المهنية 
+
 
 
 ## Enter from this link or Scan the below  QR Code:
