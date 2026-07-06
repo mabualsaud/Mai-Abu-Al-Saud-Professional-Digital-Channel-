@@ -1,4 +1,4 @@
-# Mai Abu Al Saud | مي أبو السعود
+# Mai Abu Al Saud | مي عبدالله أبو السعود
 # Strategic Publication Articles | مقالاتي المهنية 
 ## Professional Digital Channel | القناة الرقمية المهنية
 
