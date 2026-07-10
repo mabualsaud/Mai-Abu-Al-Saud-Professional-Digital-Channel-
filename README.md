@@ -1,4 +1,6 @@
-# Eng.Mai Abu Al Saud | مي عبدالله أبو السعود
+
+# Professional Digital Channel for Eng.Mai Abu Al Saud
+#القناة الرقمية المهنية للمهندسة مي عبدالله حسن أبو السعود
 ## Digital Transformation Leader | Software Engineering | AI Trainer & Researcher  
 # Strategic Publication Articles | مقالاتي المهنية 
 
