@@ -21,6 +21,16 @@
 <img width="768" height="1024" alt="Mai Abu Al Saud | مي أبو السعود" src="https://github.com/user-attachments/assets/df708446-032c-4633-b05a-b774416f9e7c" />
 
 # Executive leadership | القيادة التنفيذية
+<img width="800" height="450" alt="digital-chrisma" src="https://github.com/user-attachments/assets/dcba4b6c-5bcc-499c-80b6-ab097eee4be5" />
+<img width="752" height="422" alt="cnmt-auditing" src="https://github.com/user-attachments/assets/65471afe-f7a9-47b0-ad5e-76e96194fd87" />
+<img width="1280" height="719" alt="budget-management-2" src="https://github.com/user-attachments/assets/cd68f91c-5a0a-49af-92d8-db40a33b17cf" />
+<img width="800" height="533" alt="raci" src="https://github.com/user-attachments/assets/7bfd02e7-44b5-40e8-aeb8-7540f36fbc30" />
+<img width="751" height="423" alt="auditing-case-study" src="https://github.com/user-attachments/assets/590ec3bf-ad38-402c-99d2-a8e56fd130ab" />
+<img width="751" height="423" alt="budget-management" src="https://github.com/user-attachments/assets/9ebc0816-9a72-4fa3-b0d4-2a8253505a0f" />
+<img width="751" height="423" alt="aramco-skills" src="https://github.com/user-attachments/assets/db65745c-83ab-4eb4-9fb1-69497e07cb1f" />
+<img width="751" height="423" alt="integrity" src="https://github.com/user-attachments/assets/4b509557-327b-4dbd-8937-96c6e6c01622" />
+<img width="800" height="450" alt="experiences" src="https://github.com/user-attachments/assets/8eb95d41-4324-4088-a08b-43ec9132f8e0" />
+<img width="752" height="423" alt="change-mangement" src="https://github.com/user-attachments/assets/9ae26316-5e0b-4dd1-819b-22cae59f6c53" />
 <img width="800" height="800" alt="1783218158849" src="https://github.com/user-attachments/assets/78b151fa-e8a4-44c2-91da-d20d2824c864" />
 
 ## informal meeting before I arrive 
@@ -40,6 +50,9 @@
 <img width="1280" height="853" alt="Mai Abu Al Saud Executive leadership 7" src="https://github.com/user-attachments/assets/5b2399ec-4caf-4564-91c3-cd899570574c" />
 
 # Software Engineering & Digital Transformation | هندسة البرمجيات والتحول الرقمي
+<img width="800" height="533" alt="front-end" src="https://github.com/user-attachments/assets/25054963-35ff-484f-80db-e4223fae8631" />
+<img width="800" height="533" alt="back-end" src="https://github.com/user-attachments/assets/15b9411b-9715-4810-9099-78169c062dd8" />
+<img width="751" height="423" alt="full-stack" src="https://github.com/user-attachments/assets/e7d34b67-e636-441c-a464-70291dfaa32c" />
 <img width="800" height="533" alt="1781402061400" src="https://github.com/user-attachments/assets/0797e43a-e6fa-4cf1-a354-0c00b9fe11c2" />
 <img width="800" height="533" alt="1781402061402" src="https://github.com/user-attachments/assets/3de6bd93-29fc-42e8-a616-ef439d5614a1" />
 <img width="800" height="800" alt="1780922535526" src="https://github.com/user-attachments/assets/c0fba3ec-b861-4ac1-95c5-cc54f0cb3998" />
@@ -64,6 +77,8 @@
 <img width="1280" height="853" alt="Mai Abu Al Saud Software Engineering 4" src="https://github.com/user-attachments/assets/c60b759e-bd37-4bf7-8a58-4e3d10d229c3" />
 
 # Artificial Intellegence & Governance Publications | منشورات الذكاء الاصطناعي والحوكمة
+<img width="800" height="533" alt="ai-audit" src="https://github.com/user-attachments/assets/af0ab799-f412-4131-863f-333168b8f5c4" />
+<img width="1536" height="1024" alt="26-ai-hallucination-control" src="https://github.com/user-attachments/assets/538e725f-f391-4687-be89-92866dbe4500" />
 <img width="800" height="800" alt="1780799445420 (1)" src="https://github.com/user-attachments/assets/c96633c2-52bb-4941-b798-a1a5061e6d21" />
 <img width="800" height="533" alt="1781835651445" src="https://github.com/user-attachments/assets/a60634e1-ea16-4bd8-bb67-2729548108a5" />
 <img width="1280" height="853" alt="18" src="https://github.com/user-attachments/assets/8d7f1ae7-5f71-415c-92ae-36d509db4e99" />
