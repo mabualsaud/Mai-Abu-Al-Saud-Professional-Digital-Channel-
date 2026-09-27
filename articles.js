@@ -175,7 +175,7 @@ document.querySelectorAll("[data-gallery]").forEach((gallery) => {
 
   files.forEach((file, index) => {
     const imageFilePath = file.includes("/") ? file : `${folder}/${file}`;
-    const imagePath = `../articles/${imageFilePath
+    const imagePath = `./articles/${imageFilePath
       .split("/")
       .map((segment) => encodeURIComponent(segment))
       .join("/")}`;
